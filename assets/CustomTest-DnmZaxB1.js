@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,F as c,a as s}from"./app-CmKvcp5J.js";const n={},a=s("video",{src:"http://wisdomhallsup.oss-cn-beijing.aliyuncs.com/798.mp4",controls:"",width:"300"},null,-1),l=s("div",null," Custom TSET ",-1);function r(_,i){return t(),o(c,null,[a,l],64)}const m=e(n,[["render",r],["__file","CustomTest.vue"]]);export{m as default};
